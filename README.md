@@ -1,6 +1,6 @@
 # DRK Institute of Science & Technology - Official Website
 
-[Website Preview] (https://ksampathreddy.github.io/College-Website/)
+[Website Preview](https://ksampathreddy.github.io/College-Website/)
 
 Welcome to the official repository for the DRK Institute of Science & Technology website. This responsive website showcases the institution's academic programs, campus life, and achievements.
 
@@ -39,5 +39,6 @@ Welcome to the official repository for the DRK Institute of Science & Technology
 - **Design**: Responsive breakpoints for all devices
 
 ## File Structure
+
 
 
