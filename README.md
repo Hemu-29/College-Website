@@ -1,6 +1,6 @@
 # DRK Institute of Science & Technology - Official Website
 
-![Website Preview](static/screenshot.png)
+![Website Preview](https://ksampathreddy.github.io/College-Website/)
 
 Welcome to the official repository for the DRK Institute of Science & Technology website. This responsive website showcases the institution's academic programs, campus life, and achievements.
 
@@ -16,11 +16,6 @@ Welcome to the official repository for the DRK Institute of Science & Technology
 - Quick access top links (Grievance, Students, Careers, etc.)
 - Functional search bar with icon
 - Main navigation with hover effects
-
-### Hero Section
-- Auto-rotating image slider with zoom effect
-- Bold call-to-action "Admissions" button
-- Responsive text overlays
 
 ### Content Sections
 - **Welcome Section**: Institutional introduction with "Read More" button
@@ -44,3 +39,4 @@ Welcome to the official repository for the DRK Institute of Science & Technology
 - **Design**: Responsive breakpoints for all devices
 
 ## File Structure
+
